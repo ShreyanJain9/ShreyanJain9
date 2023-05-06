@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **ATProto-related projects** 
+- 🌱 I’m currently learning **Ruby and Python**
+
+
 <!--
 **ShreyanJain9/ShreyanJain9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
