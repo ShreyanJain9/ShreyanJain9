@@ -3,6 +3,10 @@
 - 🔭 I’m currently working on **ATProto-related projects** 
 - 🌱 I’m currently learning **Ruby and Python**
 
+Ruby library for BlueSky and AT Protocol:
+
+[ShreyanJain9/bskyrb](https://github.com/ShreyanJain9/bskyrb)
+
 
 <!--
 **ShreyanJain9/ShreyanJain9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
