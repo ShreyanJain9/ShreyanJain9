@@ -9,6 +9,10 @@ Ruby library for BlueSky and AT Protocol:
 
 [ShreyanJain9/bskyrb](https://github.com/ShreyanJain9/bskyrb)
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 
 <!--
 **ShreyanJain9/ShreyanJain9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
