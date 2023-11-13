@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **ATProto-related projects** 
-- 🌱 I’m currently learning **Ruby and Python**
-
 You can also find me at **Codeberg** as [**shreyan**](https://codeberg.org/shreyan)
 
 Ruby library for BlueSky and AT Protocol:
