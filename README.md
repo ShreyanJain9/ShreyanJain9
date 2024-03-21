@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm mostly working in Ruby and Elixir these days 
+
 You can also find me at **Codeberg** as [**shreyan**](https://codeberg.org/shreyan)
 
 Ruby library for BlueSky and AT Protocol:
