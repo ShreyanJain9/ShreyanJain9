@@ -1,16 +1,6 @@
-### Hi there 👋
+# hello
 
-I'm mostly working in Ruby and Elixir these days 
-
-You can also find me at **Codeberg** as [**shreyan**](https://codeberg.org/shreyan)
-
-Ruby library for BlueSky and AT Protocol:
-
-[ShreyanJain9/bskyrb](https://github.com/ShreyanJain9/bskyrb)
-
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+why am i here?
 
 
 <!--
